@@ -40,11 +40,19 @@ It is happening now, it has happened before,
 it will surely happen again  
 
 Übersetzung:
-Master: jangwI' nejmo' qay', bIr'un-jay botjanvo' mej ghaH. pa'logh rItwI' yuQHom.
+Master: jangwI' nejmo' qay', bIr'un-jay botjanvo' mej ghaH. ngoQDaj: pa'logh rItwI' yuQHom.
 
-Prophet: tagh qun'a', tughHa' Dor qun'a',
+Prophet: tagh qun'a', tughHa' Dor qun'a',   <-Versmas kaputt -> tughHa'? "and then"
 ghIq taghqa' qun'a'.
-DaH qaS
+
+1  2    3  4
+wa'logh qaStaH 
+"It is hap-pen-ing now"
+1   2  3   4   5   6
+"It has hap-pend be-fore"
+1   2   3   4    5  6
+"It will sure-ly happen a-gain"
+1   2    3    4  5      6 7
 
 Kay:
 Prophet:

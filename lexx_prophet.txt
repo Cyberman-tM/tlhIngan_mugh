@@ -45,8 +45,8 @@ Master: jangwI' nejmo' qay', bIr'un-jay botjanvo' mej ghaH. ngoQDaj: pa'logh rIt
 Prophet: tagh qun'a', tughHa' Dor qun'a',   <-Versmas kaputt -> tughHa'? "and then"
 ghIq taghqa' qun'a'.
 
-1  2    3  4
-wa'logh qaStaH 
+1   2  3   4
+DaH qaStaH 
 "It is hap-pen-ing now"
 1   2  3   4   5   6
 "It has hap-pend be-fore"
